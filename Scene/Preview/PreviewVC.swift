@@ -1,9 +1,9 @@
 //
 //  PreviewVC.swift
-//  GEO-Isbank
+// 
 //
 //  Created by Yusuf Demirkoparan on 29.04.2020.
-//  Copyright © 2020 Remzi Solmaz. All rights reserved.
+//
 //
 
 import Foundation

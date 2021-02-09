@@ -1,9 +1,9 @@
 //
 //  Photos+Extensions.swift
-//  Pasabahce
+//
 //
 //  Created by Yusuf Demirkoparan on 9.02.2021.
-//  Copyright © 2021 Softtech A.Ş. All rights reserved.
+//  
 //
 
 import Foundation
